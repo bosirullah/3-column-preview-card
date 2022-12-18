@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/bosirullah/3-column-preview-card](https://your-solution-url.com)
+- Live Site URL: [https://bosirullah.github.io/3-column-preview-card/](https://your-live-site-url.com)
 
 ## My process
 
@@ -40,8 +40,6 @@ In this challenge, I have learnt how to implement bootstrap(css framework). I us
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Website - [https://bosirullah.github.io/3-column-preview-card/]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/bosirullah]
 
